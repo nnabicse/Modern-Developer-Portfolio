@@ -29,7 +29,7 @@ body{
     background-color: #FF5959;
     border-radius: 3px;
     padding: 10px;
-    font-size: 70%;
+    font-size: 14px;
     color: white;
 }
 
@@ -168,7 +168,7 @@ table{
 
 #submit-button{
     width: 50px;
-    margin: 40%;
+    margin: 35%;
 }
 .submit{
     padding-bottom: 30px;
